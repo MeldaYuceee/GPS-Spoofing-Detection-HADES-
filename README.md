@@ -105,7 +105,7 @@ HADES/
 
 Below is a visualization from the simulation, showing how GPS drift and detection evolve over time:
 
-![HADES Simulation Output](./graphic-photo/graphic-photo.png)
+![HADES Simulation Output](https://raw.githubusercontent.com/MeldaYuceee/GPS-Spoofing-Detection-HADES-/main/graphic-photo/graphic-photo.png)
 
 ---
 
